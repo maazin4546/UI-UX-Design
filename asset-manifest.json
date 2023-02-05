@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/UI-UX-Design/static/css/main.68302577.css",
+    "main.js": "/UI-UX-Design/static/js/main.9d732c20.js",
+    "static/js/787.856a2c82.chunk.js": "/UI-UX-Design/static/js/787.856a2c82.chunk.js",
+    "static/media/possibilityImage.png": "/UI-UX-Design/static/media/possibilityImage.d60d0a1de0971dc00bd3.png",
+    "static/media/blog04.png": "/UI-UX-Design/static/media/blog04.4dd90b64f4797f740bdd.png",
+    "static/media/blog01.png": "/UI-UX-Design/static/media/blog01.c6c07172d9a995e86aa5.png",
+    "static/media/blog02.png": "/UI-UX-Design/static/media/blog02.2c817780af4145b90e73.png",
+    "static/media/blog03.png": "/UI-UX-Design/static/media/blog03.94a8818460bd840bb078.png",
+    "static/media/blog05.png": "/UI-UX-Design/static/media/blog05.8f6de3056609da77b523.png",
+    "static/media/ai.png": "/UI-UX-Design/static/media/ai.3a4de4d36b9ef6298f9f.png",
+    "static/media/people.png": "/UI-UX-Design/static/media/people.bad16829c7341d6783d8.png",
+    "static/media/dropbox.png": "/UI-UX-Design/static/media/dropbox.57b3fe2fbbb84fa75ea5.png",
+    "static/media/atlassian.png": "/UI-UX-Design/static/media/atlassian.a2397815b0c1110835b8.png",
+    "static/media/logo.svg": "/UI-UX-Design/static/media/logo.cf6810c94fbac0cc653f939ff5723cf4.svg",
+    "index.html": "/UI-UX-Design/index.html",
+    "main.68302577.css.map": "/UI-UX-Design/static/css/main.68302577.css.map",
+    "main.9d732c20.js.map": "/UI-UX-Design/static/js/main.9d732c20.js.map",
+    "787.856a2c82.chunk.js.map": "/UI-UX-Design/static/js/787.856a2c82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68302577.css",
+    "static/js/main.9d732c20.js"
+  ]
+}
